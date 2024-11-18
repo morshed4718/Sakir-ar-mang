@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "𝐓𝐎𝐌-𝐁𝐎𝐓",
-  "PREFIX": "/",
+  "PREFIX": ",",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
